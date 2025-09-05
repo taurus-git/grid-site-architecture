@@ -1,2 +1,12 @@
 normalize.css
 
+# Ignore users files
+Team/
+Jet/
+
+# Ignore all pdf's
+*.pdf
+
+# Ignore IDE files
+.DS_Store
+.idea/git
